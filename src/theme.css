@@ -1,0 +1,19 @@
+/* Farmivo theme */
+:root {
+  --pp-accent: #4d7c0f;
+  --pp-accent-hover: #3f6212;
+  --pp-accent2: #e9c46a;
+  --pp-ink: #1f2614;
+  --pp-muted: #545c48;
+  --pp-paper: #f7f5ec;
+  --pp-tint: #eeeadb;
+  --pp-card: #fffdf6;
+  --pp-line: #ddd8c5;
+  --pp-dark: #1d2a12;
+  --pp-dark-ink: #f5f3e8;
+  --pp-serif: 'Young Serif', Georgia, serif;
+  --pp-sans: 'Work Sans', system-ui, sans-serif;
+  --pp-mono: 'IBM Plex Mono', ui-monospace, monospace;
+  --pp-display-weight: 400;
+}
+
